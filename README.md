@@ -5,6 +5,7 @@ Se realizaron 3 experimentos para medir el rendimiento de los siguientes escenar
 - *Procesos IO­bound que trabajan con un archivo de entrada pequeño.* 
 - *Procesos IO­bound que trabajan con un archivo de entrada grande.* 
 - *Procesos IO­bound que trabajan con múltiples archivos de entrada.* 
+
 Usando uno/multiples cores del CPU mediante el uso de la herramienta bashreduce desarrollada por [Erik Frey](https://github.com/erikfrey/bashreduce). 
 
 ## Requerimientos.:package:
