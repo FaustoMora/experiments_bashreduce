@@ -1,6 +1,6 @@
-## Synopsis. 
-
 ###Proyecto de Operativos del Segundo Parcial - Evaluación de rendimiento de programas usando bashreduce.
+
+## Synopsis. 
 Se realizaron 3 experimentos para medir el rendimiento de los siguientes escenarios:
 -*Procesos IO­bound que trabajan con un archivo de entrada pequeño.* 
 -*Procesos IO­bound que trabajan con un archivo de entrada grande.* 
@@ -8,7 +8,7 @@ Se realizaron 3 experimentos para medir el rendimiento de los siguientes escenar
 Usando uno/multiples cores del CPU mediante el uso de la herramienta bashreduce desarrollada por [Erik Frey](https://github.com/erikfrey/bashreduce). 
 
 ## Requerimientos.:package:
-- br añaddido a tu path
+- br añadido a tu path
 - herramientas unix: sort, awk, ssh, netcat, pv
 - password-less ssh configurado en tu computador
 
