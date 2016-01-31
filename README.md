@@ -20,9 +20,7 @@ Como configurar bashreduce:
 
 ## Como correr los scripts.:scroll:
 
-```
-
-```
+`time ./br -m "host1 host2 host3 ..." -r/rutacompleta/script.py -i /rutacompleta/archivodeentrada.txt -o archivodesalida.txt
 
 ## Autores :mortar_board:
 - Fausto Mora
